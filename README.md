@@ -1,6 +1,6 @@
 # bets
 
-> Soccer stats dashboard with Vue and Vue-material
+> Soccer stats dashboard with Vue and Bootstrap
 
 ## Build Setup
 
