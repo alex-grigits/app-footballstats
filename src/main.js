@@ -8,6 +8,7 @@ import VueResource from 'vue-resource'
 // import VueMaterial from 'vue-material'
 // import 'vue-material/dist/vue-material.css'
 
+export const bus = new Vue()
 
 Vue.config.productionTip = false
     // Vue.use(VueMaterial)
